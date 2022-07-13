@@ -6,7 +6,7 @@ provider "aws" {
 #Source
 provider "aws" {
   alias = "central"
-  region                = "us-west-2"
+  region = "us-west-2"
 }
 
 locals {
