@@ -3,4 +3,3 @@
 # .tfstate files
 *.tfstate
 *.tfstate.*
-echo.logs
